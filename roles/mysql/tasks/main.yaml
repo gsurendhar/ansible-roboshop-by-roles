@@ -1,10 +1,7 @@
 - name: Setup Mysql component
   hosts: mysql
   become: yes
-  vars_prompt:
-    - name: MYSQL_ROOT_PASSWORD
-      prompt: Please Enter Mysql Root password Roboshop@1
-      private: true
+ 
   tasks:
   - name: install mysql 
     ansible.builtin.package:
