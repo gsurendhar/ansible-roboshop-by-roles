@@ -8,7 +8,7 @@
     name: roboshop
     shell: /sbin/nologin
     home: /app
-    System: yes
+    system: yes
 
 - name: Download the {{ component }} code
   ansible.builtin.get_url:
