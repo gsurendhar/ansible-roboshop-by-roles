@@ -9,11 +9,11 @@
     state: present
 
 - name: Install dependencies 
-  ansible.builtin.command: go "{{ item }}"
+  ansible.builtin.command:  "{{ item }}"
   loop:
-    - "mod init dispatch"
-    - "get"
-    - "build"
+    - "go mod init dispatch"
+    - "go get"
+    - "go build"
   args:
     chdir: /app
 
