@@ -23,7 +23,7 @@
     name: all
     login_user: root
     login_password: "{{ MYSQL_ROOT_PASSWORD }}"
-    login_host: mysql.gonela.site
+    login_host: "{{ MYSQL_HOST }}"
     state: import
     target: "{{ item }}"
   loop:
