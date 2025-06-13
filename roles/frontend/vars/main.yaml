@@ -1,10 +1,10 @@
-CATALOGUE_HOST: catalogue.gonela.site
+# CATALOGUE_HOST: catalogue.gonela.site
 # USER_HOST: user.gonela.site
 # CART_HOST: cart.gonela.site
 # SHIPPING_HOST: shipping.gonela.site
 # PAYMENT_HOST: payment.gonela.site
 
-
+CATALOGUE_HOST: 172.31.93.160
 USER_HOST: localhost
 CART_HOST: localhost
 SHIPPING_HOST: localhost
