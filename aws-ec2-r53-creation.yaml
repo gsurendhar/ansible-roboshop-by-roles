@@ -5,14 +5,14 @@
     instances:
     - mongodb
     - catalogue
-    - redis
-    - user
-    - cart
+    # - redis
+    # - user
+    # - cart
     - frontend
-    - mysql
-    - shipping
-    - rabbitmq
-    - payment
+    # - mysql
+    # - shipping
+    # - rabbitmq
+    # - payment
     # - dispatch
     
 
