@@ -20,7 +20,7 @@
 
 - name: import data into mongodb
   ansible.builtin.shell: 
-    mongosh --host mongodb.gonela.site </app/db/master-data.js
+    mongosh --host "{{ MONGODB_HOST }}" </app/db/master-data.js
 
 - name: catalogue service start
   include_role:
