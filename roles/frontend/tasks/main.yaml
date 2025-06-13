@@ -12,7 +12,7 @@
 - name: Start and enable nginx
   ansible.builtin.service:
     name: nginx
-    state: restarted
+    # state: restarted
     enabled: yes
 
 - name: Download the frontend code
