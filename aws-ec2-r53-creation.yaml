@@ -5,9 +5,9 @@
     instances:
     - mongodb
     - catalogue
-    # - redis
-    # - user
-    # - cart
+    - redis
+    - user
+    - cart
     - frontend
     # - mysql
     # - shipping
