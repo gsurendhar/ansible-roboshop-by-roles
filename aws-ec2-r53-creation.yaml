@@ -9,10 +9,10 @@
     - user
     - cart
     - frontend
-    # - mysql
-    # - shipping
-    # - rabbitmq
-    # - payment
+    - mysql
+    - shipping
+    - rabbitmq
+    - payment
     # - dispatch
     
 
