@@ -1,3 +1,6 @@
-CART_HOST: cart.gonela.site
-MYSQL_HOST: mysql.gonela.site
+# CART_HOST: cart.gonela.site
+# MYSQL_HOST: mysql.gonela.site
 MYSQL_ROOT_PASSWORD: RoboShop@1
+
+CART_HOST: 172.31.93.63
+MYSQL_HOST: 172.31.92.71
