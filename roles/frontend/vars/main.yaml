@@ -5,7 +5,7 @@
 # PAYMENT_HOST: payment.gonela.site
 
 CATALOGUE_HOST: 172.31.93.160
-USER_HOST: localhost
+USER_HOST: 172.31.93.31
 CART_HOST: localhost
 SHIPPING_HOST: localhost
 PAYMENT_HOST: localhost
