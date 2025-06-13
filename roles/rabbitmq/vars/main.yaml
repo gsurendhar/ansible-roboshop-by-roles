@@ -1,5 +1,1 @@
-
-vars_prompt:
-  name: RABBITMQ_PASSWORD
-  prompt: Please Enter Rabbitmq roboshop Password 
-  private: true
+RABBITMQ_PASSWORD : roboshop123
