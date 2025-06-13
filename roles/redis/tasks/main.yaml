@@ -21,8 +21,8 @@
     regexp: 'protected-mode'
     line: protected-mode no
 
-- name: start and enable catalogue service
+- name: start and enable redis service
   ansible.builtin.service:
-    name: catalogue
+    name: redis
     state: started
     enabled: yes
