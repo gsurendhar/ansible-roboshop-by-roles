@@ -1,6 +1,6 @@
-# REDIS_HOST: redis.gonela.site
-# CATALOGUE_HOST: catalogue.gonela.site
+REDIS_HOST: redis.gonela.site
+CATALOGUE_HOST: catalogue.gonela.site
 
 
-REDIS_HOST: 172.31.87.50
-CATALOGUE_HOST: 172.31.93.160
+# REDIS_HOST: 172.31.87.50
+# CATALOGUE_HOST: 172.31.93.160
