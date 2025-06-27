@@ -1,9 +1,9 @@
-# CART_HOST: cart.gonela.site
-# USER_HOST: user.gonela.site
-# RABBITMQ_HOST: rabbitmq.gonela.site
+CART_HOST: cart.gonela.site
+USER_HOST: user.gonela.site
+RABBITMQ_HOST: rabbitmq.gonela.site
 
 
 
-CART_HOST: 172.31.93.63
-USER_HOST: 172.31.93.31
-RABBITMQ_HOST: 172.31.83.252
+# CART_HOST: 172.31.93.63
+# USER_HOST: 172.31.93.31
+# RABBITMQ_HOST: 172.31.83.252

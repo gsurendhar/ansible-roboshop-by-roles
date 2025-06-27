@@ -1,8 +1,8 @@
-# REDIS_HOST: redis.gonela.site
-# MONGODB_HOST: mongodb.gonela.site
+REDIS_HOST: redis.gonela.site
+MONGODB_HOST: mongodb.gonela.site
 
 
 
-REDIS_HOST: 172.31.87.50
-MONGODB_HOST: 172.31.88.2
+# REDIS_HOST: 172.31.87.50
+# MONGODB_HOST: 172.31.88.2
 

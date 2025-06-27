@@ -1,11 +1,11 @@
-# CATALOGUE_HOST: catalogue.gonela.site
-# USER_HOST: user.gonela.site
-# CART_HOST: cart.gonela.site
-# SHIPPING_HOST: shipping.gonela.site
-# PAYMENT_HOST: payment.gonela.site
+CATALOGUE_HOST: catalogue.gonela.site
+USER_HOST: user.gonela.site
+CART_HOST: cart.gonela.site
+SHIPPING_HOST: shipping.gonela.site
+PAYMENT_HOST: payment.gonela.site
 
-CATALOGUE_HOST: 172.31.93.160
-USER_HOST: 172.31.93.31
-CART_HOST: 172.31.93.63
-SHIPPING_HOST: 172.31.86.18
-PAYMENT_HOST: 172.31.83.254
+# CATALOGUE_HOST: 172.31.93.160
+# USER_HOST: 172.31.93.31
+# CART_HOST: 172.31.93.63
+# SHIPPING_HOST: 172.31.86.18
+# PAYMENT_HOST: 172.31.83.254
