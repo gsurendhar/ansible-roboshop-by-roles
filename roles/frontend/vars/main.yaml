@@ -4,6 +4,12 @@ CART_HOST: cart.gonela.site
 SHIPPING_HOST: shipping.gonela.site
 PAYMENT_HOST: payment.gonela.site
 
+CATALOGUE_HOST: localhost
+USER_HOST: localhost
+CART_HOST: localhost
+SHIPPING_HOST: localhost
+PAYMENT_HOST: localhost
+
 # CATALOGUE_HOST: 172.31.93.160
 # USER_HOST: 172.31.93.31
 # CART_HOST: 172.31.93.63
